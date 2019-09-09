@@ -10,3 +10,6 @@ This section adds buttons to gui:
 
 This section adds background pic:
 	add background pic
+
+This section adds background color:
+	add metallic gray
