@@ -1,0 +1,4 @@
+# Code to create a gui
+
+This section creates main_gui:
+	create main_gui
