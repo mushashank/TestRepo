@@ -2,3 +2,5 @@
 
 This section creates main_gui:
 	create main_gui
+	added title to the gui
+	added logo to the gui
