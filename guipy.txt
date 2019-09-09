@@ -5,5 +5,8 @@ This section creates main_gui:
 	added title to the gui
 	added logo to the gui
 
+This section adds buttons to gui:
+	add buttons
+
 This section adds background pic:
 	add background pic
