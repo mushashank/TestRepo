@@ -13,3 +13,5 @@ This section adds background pic:
 
 This section adds background color:
 	add manhattan grey
+
+New line
