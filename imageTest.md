@@ -1,5 +1,5 @@
 This is to embed an image
 
-../images/images.png
+./images/images.png
 
 Continue...
